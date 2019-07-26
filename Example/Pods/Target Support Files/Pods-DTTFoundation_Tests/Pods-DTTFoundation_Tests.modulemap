@@ -1,4 +1,4 @@
-framework module Pods_DTTFoundation_Tests {
+module Pods_DTTFoundation_Tests {
   umbrella header "Pods-DTTFoundation_Tests-umbrella.h"
 
   export *

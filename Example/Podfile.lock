@@ -1,5 +1,5 @@
 PODS:
-  - DTTFoundation (0.1.0)
+  - DTTFoundation (0.1.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -19,9 +19,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DTTFoundation: 3027a889dfc40a8559cc2534f900e5115ed79167
+  DTTFoundation: 2f00b625f36972764a75213770e6c83ff56cb677
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
-PODFILE CHECKSUM: a1f860476f41aebf52c87fc2ee70c4f0d39c375c
+PODFILE CHECKSUM: c0db4ad988bd986ab6e4197a0847e337bea5e938
 
 COCOAPODS: 1.7.1
