@@ -1,6 +1,6 @@
 {
   "name": "DTTFoundation",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "A short description of DTTFoundation.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/dingtiantian/DTTFoundation",
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/dingtiantian/DTTFoundation.git",
-    "tag": "0.1.1"
+    "tag": "0.1.6"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "DTTFoundation/**/*"
+  "source_files": "DTTFoundation/Classes/**/*"
 }
