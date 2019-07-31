@@ -2,7 +2,7 @@
 //  NSDate+DTTDate.m
 //  Pods
 //
-//  Created by majian on 16/6/7.
+//  Created by dtt on 16/6/7.
 //
 //
 

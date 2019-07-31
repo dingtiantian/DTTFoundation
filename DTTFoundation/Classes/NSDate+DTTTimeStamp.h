@@ -2,7 +2,7 @@
 //  NSDate+DTTTimeStamp.h
 //  时间戳相关处理
 //
-//  Created by majian on 16/6/7.
+//  Created by dtt on 16/6/7.
 //
 //
 

@@ -2,7 +2,7 @@
 //  NSNumber+DTTNumber.h
 //  Pods
 //
-//  Created by majian on 16/6/6.
+//  Created by dtt on 16/6/6.
 //
 //
 

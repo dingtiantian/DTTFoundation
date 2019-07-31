@@ -2,7 +2,7 @@
 //  DTTFoundationShorthandMarcos.h
 //  DTTFoundation
 //
-//  Created by 陈建蕾 on 2018/8/17.
+//  Created by dtt on 2018/8/17.
 //
 
 #ifndef DTTFoundationShorthandMarcos_h

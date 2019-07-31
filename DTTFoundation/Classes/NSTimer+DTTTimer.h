@@ -2,7 +2,7 @@
 //  NSTimer+DTTTimer.h
 //  Pods
 //
-//  Created by majian on 2016/11/23.
+//  Created by dtt on 2016/11/23.
 //
 //
 
